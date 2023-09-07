@@ -1,0 +1,10 @@
+C:\Users\benit\Desktop\UAI\LUG\Practicas\polideportivo\bin\Debug\polideportivo.exe.config
+C:\Users\benit\Desktop\UAI\LUG\Practicas\polideportivo\bin\Debug\polideportivo.exe
+C:\Users\benit\Desktop\UAI\LUG\Practicas\polideportivo\bin\Debug\polideportivo.pdb
+C:\Users\benit\Desktop\UAI\LUG\Practicas\polideportivo\obj\Debug\polideportivo.csproj.AssemblyReference.cache
+C:\Users\benit\Desktop\UAI\LUG\Practicas\polideportivo\obj\Debug\polideportivo.Form1.resources
+C:\Users\benit\Desktop\UAI\LUG\Practicas\polideportivo\obj\Debug\polideportivo.Properties.Resources.resources
+C:\Users\benit\Desktop\UAI\LUG\Practicas\polideportivo\obj\Debug\polideportivo.csproj.GenerateResource.cache
+C:\Users\benit\Desktop\UAI\LUG\Practicas\polideportivo\obj\Debug\polideportivo.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\UAI\LUG\Practicas\polideportivo\obj\Debug\polideportivo.exe
+C:\Users\benit\Desktop\UAI\LUG\Practicas\polideportivo\obj\Debug\polideportivo.pdb
